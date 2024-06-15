@@ -1,3 +1,13 @@
+<!--
+ * @Author: houyawei-NO1 30817974+houyawei-NO1@users.noreply.github.com
+ * @Date: 2024-06-15 11:59:42
+ * @LastEditors: houyawei-NO1 30817974+houyawei-NO1@users.noreply.github.com
+ * @LastEditTime: 2024-06-15 12:28:38
+ * @FilePath: \undefinede:\HouYawei\研发资料\桌面天气指针款\WeatherStation\README.md
+ * @Description: 
+ * 
+ * Copyright (c) 2024 by 侯亚威, All Rights Reserved. 
+-->
 # WeatherStation
  桌面天气指针款
 
@@ -20,4 +30,10 @@
 
 String url="http://apis.juhe.cn/simpleWeather/query";    //请求网址响应
 String city="南阳";                                      //输入想要获得的城市
-String key="添你的，我的每天只能用50次";  
+String key="填你的，我的每天只能用50次";  
+
+![正面](https://github.com/houyawei-NO1/WeatherStation/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240615112655(1).jpg)
+
+![屏幕](https://github.com/houyawei-NO1/WeatherStation/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240615114943.jpg)
+
+![天气](https://github.com/houyawei-NO1/WeatherStation/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240615115013.jpg)
